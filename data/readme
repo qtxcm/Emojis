@@ -1,6 +1,4 @@
-one instance refer to one line
-text format in every line is below:
-There are tree columns which are represented respectivelly as
-Pure text polarity , porlarity with emoji,  weibo Content  
-
+表情符情感与诱因抽取语料：WeiboCauseAndEmotionCorpus.txt
+表情符情感交互语料：WeiboSentiInteraction.txt
+微博表情符情感语料：weiboSentiWithEmojis.txt
 
